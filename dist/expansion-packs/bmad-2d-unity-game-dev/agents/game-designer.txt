@@ -3385,7 +3385,7 @@ Use the `shard-doc` task or `@kayvan/markdown-tree-parser` tool for automatic ga
 | `game-sm`        | Game Scrum Master | Game story creation, sprint planning        | Game project management, workflow           |
 | `game-architect` | Game Architect    | Unity system design, technical architecture | Complex Unity systems, performance planning |
 
-**Note**: For QA and other roles, use the core BMad agents (e.g., `@qa` from bmad-core).
+**Note**: For QA and other roles, use the core BMad agents (e.g., `@qa` from .bmad-core).
 
 ### Game Agent Interaction Commands
 
