@@ -11,6 +11,7 @@ agents:
   - architect
   - po
   - seo-expert
+  - debug
 workflows:
   - brownfield-fullstack.yaml
   - brownfield-service.yaml
