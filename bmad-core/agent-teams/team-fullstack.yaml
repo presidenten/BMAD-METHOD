@@ -10,6 +10,7 @@ agents:
   - ux-expert
   - architect
   - po
+  - seo-expert
   - debug
 workflows:
   - brownfield-fullstack.yaml
